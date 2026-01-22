@@ -558,7 +558,19 @@ foreach (var värv in kasutajaVärvid)
         string favorite = pets[index];
         index = index + 1;
 
+
+
         // kuvame tulemuse
         Console.WriteLine(userName + ", sinu kõige lemmikloom on " + favorite);
     }
 }
+
+
+
+
+
+
+
+Tools → Options → Text Editor → C# → IntelliSense
+IntelliCode
+Advanced - Responsive code completion
